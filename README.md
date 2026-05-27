@@ -2,7 +2,7 @@
 
 An advanced Python-based aerospace simulation platform for modeling rocket flight dynamics, multi-stage launch systems, planetary launches, and escape velocity analysis.
 
-![Rocket Simulator Preview](simulation-preview.png)
+
 
 ---
 
